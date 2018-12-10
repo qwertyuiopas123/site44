@@ -65,3 +65,6 @@ margin:10px;
 #g1 {
 	text-align: center;
 }
+.checked {
+  color: orange;
+}
