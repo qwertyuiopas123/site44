@@ -63,7 +63,7 @@ margin:10px;
 .container {
   padding: 2px 16px;
 }
-#g1 {
+.g1 {
 	text-align: center;
 }
 .checked {
@@ -334,5 +334,22 @@ img {
 
 
 #g47 {
-	float:right;
+	float:right
+}
+.g48{
+text-align:center; 
+padding:10px;
+}
+.mapouter{
+	text-align:right;
+	height:500px;
+	width:100%;
+	align-content:center;
+}
+
+.gmap_canvas {
+	overflow:hidden;
+	background:none!important;
+	height:500px;
+	width:100%;
 }
